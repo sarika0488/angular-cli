@@ -3,6 +3,7 @@
     "max-line-length": [true, 100],
     "no-inferrable-types": true,
     "class-name": true,
+	"name":false,
     "comment-format": [
       true,
       "check-space"
